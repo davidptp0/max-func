@@ -59,4 +59,4 @@ best_solution_elitist = ga_elitist(100, 1000, 0.1)
 best_solution_roulette = ga_roulette(100, 1000, 0.1)
 
 print(f"Лучшее решение с методом элит: {best_solution_elitist}")
-print(f"Лучшее решение с методом рулетки: {best_solution_roulette}")
+print(f"Лучшее решение с методом элит: {best_solution_roulette}")
